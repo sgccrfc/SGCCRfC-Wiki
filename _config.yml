@@ -1,0 +1,44 @@
+title: SGCCRfC Wiki
+description: Scientific Grid Computing and Cloud Computing Resources for Community
+theme: just-the-docs
+
+url: "https://<your-username>.github.io/SGCCRfC-Wiki"
+
+# Search
+search_enabled: true
+
+# Back to top
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Navigation structure
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_order: 1
+      output: true
+
+# Enable callouts/notes
+callouts:
+  info:
+    title: Info
+    color: blue
+  warning:
+    title: Warning
+    color: yellow
+  danger:
+    title: Danger
+    color: red
+
+# Aux links
+aux_links:
+  "SGCCRfC Main Site":
+    - "https://sgccrfc.org"
+
+# Theme customization (optional)
+color_scheme: light
+
+# Custom CSS support
+custom_css: assets/css/custom.css
+
