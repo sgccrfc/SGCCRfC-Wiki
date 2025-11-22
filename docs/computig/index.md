@@ -1,6 +1,6 @@
 ---
-title: Grid & Cloud Computing
-nav_order: 4
+title: "Computing"
+nav_order: 8
 has_children: true
 ---
 

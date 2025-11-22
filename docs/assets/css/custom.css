@@ -5,6 +5,13 @@ h1, h2, h3, h4 {
   font-weight: 600;
 }
 
+/* CUSTOM THEME STYLES */
+/* Logo sizing (if needed) */
+.top-bar {
+  height: 70px;
+}
+
+
 /* Logo spacing if you add a header logo */
 .site-header .site-logo {
   height: 40px;

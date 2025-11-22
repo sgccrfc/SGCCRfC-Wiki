@@ -1,6 +1,6 @@
 ---
-title: Resources Library
-nav_order: 5
+title: "Resources"
+nav_order: 10
 has_children: true
 ---
 
