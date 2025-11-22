@@ -1,66 +1,67 @@
-# SGCCRfC-Wiki  
-_Scientific Grid Computing and Cloud Computing Resources for Community_
+# SGCCRfC-Wiki
+Scientific Grid Computing &amp; Cloud Computing Resources for Community (SGCCRfC) — a non-profit knowledge hub (est. 2013) providing global scientists, engineers &amp; professionals with curated updates, expert insights, and resources on state-of-the-art cloud &amp; grid computing.
+📘 SGCCRfC – Scientific Grid Computing & Cloud Computing Resources for Community
 
-![SGCCRfC Banner](assets/images/banner.png)
+A Non-Profit Knowledge Hub Since 2013
 
-<p align="center">
-A global, open scientific knowledge hub for Cloud Computing, Grid Computing, HPC, Numerical Modeling, Geosciences, Remote Sensing, GNSS, and allied scientific domains.
-</p>
+Scientific Grid Computing and Cloud Computing Resources for Community (SGCCRfC) is a pioneering global knowledge platform founded in 2013 to highlight, commemorate, and advance the rapidly evolving fields of Grid Computing, Cloud Computing, Distributed Systems, and related emerging technologies.
 
----
+As a non-profit organization, SGCCRfC is committed to empowering scientists, engineers, researchers, students, and professionals across all scientific and engineering domains by providing:
 
-## 🏷️ Badges
+📡 State-of-the-art technological updates
 
-<p align="center">
-  <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen" />
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue" />
-  <img alt="Docs" src="https://img.shields.io/badge/Documentation-Just--the--Docs-orange" />
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-Live-lightgrey" />
-</p>
+🧠 Expert insights and curated knowledge
 
----
+🔍 Research-focused analysis & resources
 
-## 📌 About SGCCRfC
+🌐 Community-driven collaboration opportunities
 
-**Scientific Grid Computing and Cloud Computing Resources for Community (SGCCRfC)**  
-is a non-profit initiative established in **2013** to support scientific advancement through  
-open knowledge, cloud technologies, computational tools, and multidisciplinary research.
+📚 Structured domain-based documentation
 
-This repository hosts the **official documentation wiki**, organized as a structured  
-knowledge base across scientific, computational, and engineering domains.
+Our mission is to make advanced computing knowledge accessible, organized, and community-driven, supporting practitioners and learners worldwide as they engage with modern computational infrastructures.
 
-The Wiki aims to:
+🌍 Our Vision
 
-- Provide curated open-source scientific resources  
-- Offer domain-wise knowledge navigation  
-- Support students, researchers, engineers, and professionals  
-- Promote cloud, grid, HPC, and numerical modeling technologies  
-- Foster collaboration in global scientific communities  
+To build a globally accessible knowledge ecosystem that bridges the gap between cutting-edge computational technologies and the scientific community, enabling innovation, research, education, and practical applications across diverse fields.
 
----
+🎯 What SGCCRfC Offers
+▷ Comprehensive Resource Library
 
-## 📚 Documentation
+Curated articles, notes, domain-specific explanations, and up-to-date knowledge on grid, cloud, and distributed computing systems.
 
-The full documentation is available via **GitHub Pages** using the *Just-the-Docs* theme.
+▷ Multi-Disciplinary Scientific Coverage
 
-👉 **https://sgccrfc.github.io/SGCCRfC-Wiki/**  
-*(URL becomes active after you enable Pages)*
+Documentation spanning mathematics, engineering branches, electronics, computer science, physics, computational sciences, and more.
 
----
+▷ Learning & Collaboration Support
 
-## ✨ Key Features
+Guided content batches, structured wiki pages, and community knowledge contributions.
 
-- Fully structured scientific documentation  
-- Domain-wise categorization (Math, Physics, Earth Science, etc.)  
-- Cloud, HPC, Grid, and scientific computing resources  
-- Open-source scientific software references  
-- YouTube playlists, datasets, and GitHub repos  
-- Community contribution workflows  
-- Automatic left-sidebar navigation  
-- Mobile-friendly documentation UI  
+▷ Technology Awareness & Research Insight
 
----
+Information on industrial trends, academic developments, and practical applications of cloud and grid computing.
 
-## 📁 Repository Structure
+🛠️ About This Repository: SGCCRfC-Wiki
 
+This repository hosts the official SGCCRfC Wiki Pages, designed to serve as a full documentation site powered by:
 
+GitHub Pages
+
+Jekyll (static site generator)
+
+Auto-organized navigation
+
+Domain-based content batches
+
+Expandable knowledge architecture
+
+Content will be generated batch-by-batch across scientific and engineering domains, forming a comprehensive, community-accessible knowledge base.
+
+🤝 Contributions
+
+Contributions, suggestions, and knowledge-sharing are welcome.
+Feel free to open an Issue or submit a Pull Request with improvements, corrections, or new topics.
+
+📫 Contact
+
+For inquiries, collaborations, or community engagement, please reach out via the SGCCRfC official channels.

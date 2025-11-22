@@ -1,48 +1,50 @@
 ---
 title: SGCCRfC Wiki
+layout: default
 nav_order: 1
 ---
 
-# 🌐 SGCCRfC Wiki  
-### Scientific Grid Computing & Cloud Computing Resources for Community  
-*A global knowledge hub for scientific computing, research, and education.*
+# SGCCRfC Wiki  
+### Scientific Grid Computing and Cloud Computing Resources for Community
 
----
+Welcome to the **SGCCRfC Wiki**, a curated knowledge hub bringing together:
 
-## ❖ What is SGCCRfC?  
-**SGCCRfC (Scientific Grid Computing and Cloud Computing Resources for Community)** is a non-profit initiative established in **2013** to advance the landscape of:
+- **Scientific Computing**
+- **Cloud & Grid Computing**
+- **High-Performance Computing**
+- **Earth & Atmospheric Sciences**
+- **Mathematics, Physics, Chemistry**
+- **Geophysics, Seismology, Geodesy**
+- **Numerical Modeling & Algorithms**
+- **GNSS & Satellite Data Processing**
+- **Open Source Tools, GitHub Repos, YouTube Lectures, Scientific Databases**
 
-- Grid Computing  
-- Cloud Computing  
-- High-Performance Scientific Computing  
-- Research Data Platforms  
-- Open Science Repositories  
+## 🌍 About SGCCRfC
 
-Our mission is to **serve scientists, engineers, educators, and domain experts** through open knowledge, community-driven resources, and curated links to world-class platforms.
+**Scientific Grid Computing and Cloud Computing Resources for Community (SGCCRfC)**  
+is a non-profit platform founded in **2013** to advance technological innovation in:
 
----
+- **Cloud Computing**
+- **Grid Computing**
+- **Distributed Systems**
+- **Scientific Computing Infrastructure**
 
-## ❖ What You Will Find Here  
-This wiki provides:
+Our mission is to **empower scientists, engineers, students, and professionals globally** by providing curated, open, and community-driven computing resources.
 
-- 📚 Domain-wise scientific resources  
-- 🔗 Curated open-source repositories  
-- 🎥 Public-domain YouTube lecture links  
-- ☁️ Cloud & HPC computing guides  
-- 🛰️ Computational tools for scientific research  
-- 📊 Tutorials for numerical modeling  
+## 📚 Explore the Wiki
 
----
+Use the navigation sidebar to explore categories:
 
-## ❖ Quick Navigation  
-- 👉 [Scientific Domains](domains/index.md)  
-- 👉 [Grid & Cloud Computing](computing/index.md)  
-- 👉 [Resources Library](resources/index.md)  
-- 👉 [About SGCCRfC](about.md)  
+- Scientific Domains  
+- Numerical Methods  
+- Scientific Computing  
+- Cloud & Grid Computing  
+- GNSS & Satellite Processing  
+- Open Source Resources  
+- Community Contributions  
 
----
+## 🤝 Contribute
 
-## ❖ Contributions  
-This is an open project. You are welcome to suggest resources, tools, or corrections.
-
+We welcome contributions from the global community!  
+Visit the **Contribute** page to learn how to add new datasets, projects, papers, or tools.
 
