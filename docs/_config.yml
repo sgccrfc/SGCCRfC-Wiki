@@ -1,21 +1,37 @@
 title: "SGCCRfC Wiki"
-description: "Scientific Grid Computing & Cloud Computing Resources for Community"
-theme: jekyll-theme-cayman
+description: "Scientific Grid & Cloud Computing Resources for Community"
 
-markdown: kramdown
-highlighter: rouge
+theme: "just-the-docs"
 
-# Required for GitHub Pages
-plugins: []
-
-# Set base URL for project pages
-baseurl: "/SGCCRfC-Wiki"
 url: "https://sgccrfc.github.io"
+baseurl: "/SGCCRfC-Wiki"
 
-# Navigation links
-nav:
-  - name: "Home"
-    link: /
-  - name: "About"
-    link: /about
+# Enable search
+search_enabled: true
+
+# Add logo
+logo: "/assets/img/logo.png"   # matches your folder
+
+# Navigation order
+nav_sort: case_insensitive
+
+# Enable callouts
+callouts:
+  highlight:
+    color: yellow
+  info:
+    color: blue
+  note:
+    color: purple
+  warning:
+    color: red
+
+# Aux links (top-right)
+aux_links:
+  "SGCCRfC Main Site":
+    - "https://sgccrfc.org"
+
+# GitHub Pages required
+markdown: kramdown
+plugins: []
 
