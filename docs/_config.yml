@@ -1,0 +1,123 @@
+# ============================================================
+# SGCCRfC-Wiki — Jekyll + Just-the-Docs Configuration (v4.0)
+# Deterministic Navigation • Clean Structure • Production Ready
+# ============================================================
+
+title: "SGCCRfC Wiki"
+description: "Scientific Grid Computing and Cloud Computing Resources for Community (SGCCRfC)"
+theme: just-the-docs
+url: ""        # Fill when deploying (e.g., "https://sgccrfc.github.io/SGCCRfC-Wiki")
+baseurl: ""    # Leave empty for project site; use "/repo-name" for org site
+logo: "assets/img/logo.png"
+
+color_scheme: light
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 3
+  previews: true
+  tokenizer_separator: /[\s/]+/
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Edit Link
+aux_links:
+  "SGCCRfC GitHub Repository":
+    - "https://github.com/sgccrfc/SGCCRfC-Wiki"
+aux_links_new_tab: true
+
+# ====================================================================================
+#                              FULL NAVIGATION BLOCK
+# ====================================================================================
+
+nav:
+  - Home: index.md
+
+  - Introduction:
+      - Overview: introduction/overview.md
+      - History: introduction/history.md
+      - Mission: introduction/mission.md
+      - Introduction Index: introduction/index.md
+
+  - About: about.md
+
+  - Domains:
+      - Domains Home: domains/index.md
+      - Aerospace Science: domains/aerospace-science.md
+      - Civil Engineering: domains/civil-engineering.md
+      - Computer Science: domains/computer-science.md
+      - Electronics: domains/electronics.md
+      - Mechanical Engineering: domains/mechanical-engineering.md
+
+      - Scientific Domains:
+          - Scientific Domains Home: domains/scientific-domains/index.md
+
+          - Atmospheric Science: domains/scientific-domains/atmospheric-science.md
+          - Chemistry: domains/scientific-domains/chemistry.md
+          - Computer Science: domains/scientific-domains/computer-science.md
+          - Earth Science: domains/scientific-domains/earth-science.md
+          - Environmental Science: domains/scientific-domains/environmental-science.md
+          - Geophysics (Main): domains/scientific-domains/geophysics.md
+          - Hydrology: domains/scientific-domains/hydrology.md
+          - Mathematics: domains/scientific-domains/mathematics.md
+          - Oceanography: domains/scientific-domains/oceanography.md
+          - Physics: domains/scientific-domains/physics.md
+
+          - Computing:
+              - Computing Home: domains/scientific-domains/computig/index.md
+              - Cloud Computing: domains/scientific-domains/computig/cloud-computing.md
+              - Distributed Systems: domains/scientific-domains/computig/distributed-systems.md
+              - Grid Computing: domains/scientific-domains/computig/grid-computing.md
+              - High Performance Computing (HPC): domains/scientific-domains/computig/hpc.md
+              - Virtualization: domains/scientific-domains/computig/virtualization.md
+
+          - Data Processing:
+              - Data Processing Home: domains/scientific-domains/data-processing/index.md
+              - GIS & Geospatial: domains/scientific-domains/data-processing/gis-geospatial.md
+              - GNSS Processing: domains/scientific-domains/data-processing/gnss-processing.md
+              - Remote Sensing: domains/scientific-domains/data-processing/remote-sensing.md
+              - SAR / InSAR: domains/scientific-domains/data-processing/sar-insar.md
+              - Satellite Data: domains/scientific-domains/data-processing/satellite-data.md
+
+          - Geophysics (Subdomain):
+              - Geophysics Core Home: domains/scientific-domains/geophysics-core/index.md
+              - Geodesy: domains/scientific-domains/geophysics-core/geodesy.md
+              - Geodynamics: domains/scientific-domains/geophysics-core/geodynamics.md
+              - Seismology: domains/scientific-domains/geophysics-core/seismology.md
+              - Volcanology: domains/scientific-domains/geophysics-core/volcanology.md
+
+          - Numerical Methods:
+              - Numerical Methods Home: domains/scientific-domains/numerical-methods/index.md
+              - Computational Fluid Dynamics: domains/scientific-domains/numerical-methods/computational-fluid-dynamics.md
+              - Finite Difference Method: domains/scientific-domains/numerical-methods/finite-difference-method.md
+              - Finite Element Method: domains/scientific-domains/numerical-methods/finite-element-method.md
+              - Hydrodynamics Modeling: domains/scientific-domains/numerical-methods/hydrodynamics-modeling.md
+              - Numerical Algorithms: domains/scientific-domains/numerical-methods/numerical-algorithms.md
+
+  - Resources:
+      - Resources Home: resources/index.md
+      - Learning Resources: resources/learning-resources.md
+      - Scientific Databases: resources/scientific-databases.md
+      - GitHub Repositories: resources/github-repositories.md
+      - Open-Source Projects: resources/open-source-projects.md
+      - YouTube Playlists: resources/youtube-playlists.md
+
+  - Community:
+      - Community Home: community/index.md
+      - Join Community: community/join-community.md
+      - Contribute: community/contribute.md
+      - Submit Resource: community/submit-resource.md
+      - Contact: community/contact.md
+
+  - License: LICENSE
+  - README: README.md
+
+# ============================================================
+# End of _config.yml
+# ============================================================
+
