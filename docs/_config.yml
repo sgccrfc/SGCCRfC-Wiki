@@ -6,8 +6,8 @@
 title: "SGCCRfC Wiki"
 description: "Scientific Grid Computing and Cloud Computing Resources for Community (SGCCRfC)"
 theme: just-the-docs
-url: "https://sgccrfc.github.io/SGCCRfC-Wiki"        # Fill when deploying (e.g., "https://sgccrfc.github.io/SGCCRfC-Wiki")
-baseurl: ""    # Leave empty for project site; use "/repo-name" for org site
+url: "https://sgccrfc.github.io"        # Fill when deploying (e.g., "https://sgccrfc.github.io/SGCCRfC-Wiki")
+baseurl: "/SGCCRfC-Wiki"    # Leave empty for project site; use "/repo-name" for org site
 logo: "assets/img/logo.png"
 
 color_scheme: light
